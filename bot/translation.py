@@ -17,8 +17,8 @@ For More Details Click Help Button Below..
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> 
+-> 
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
