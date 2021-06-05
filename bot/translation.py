@@ -23,26 +23,10 @@ For More Details Click Help Button Below..
 
 <b>Bot Commands (Works Only In Groups) :</b>
 
-    -> <code>/add chat_id</code>
-                OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)
-     <code>/add @Username</code>
-     
-    -> <code>/del chat_id</code>
-                OR                  - To disconnect A Group With A Channel
-     <code>/del @Username</code>
-     
-    -> <code>/delall</code>  - This Command Will Disconnect All Connected Channel With The Group And Deletes All Its File From DB
-    
-    -> <code>/settings</code> -  This Command Will Display You A Settings Pannel Instance Which Can Be Used To Tweek Bot's Settings Accordingly
-
-            -> <code>Channel</code> - Button Will Show You All The Connected Chats With The Group And Will Show Buttons Correspnding To There Order For Furthur Controls
-            
-            -> <code>Filter Types</code> - Button Will Show You The 3 Filter Option Available In Bot... Pressing Each Buttons Will Either Enable or Disable Them And This Will Take Into Action As Soon As You Use Them Without The Need Of A Restart
-
-            -> <code>Configure</code> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results
-            
-            -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
-            
+    -> എന്താ അന്റെ ഉദ്ധെസം!?
+>> ഞാൻ കുറച്ചു മുൻപേ പറഞ്ഞതല്ല എന്നെ നിങ്ങൾക്ക് ഉപയോഗിക്കാൻ പറ്റില്ല എന്ന്..,
+>> പിന്നെ എന്തിനാ ഇവിടെ കിടന്ന് ചൊറിയാൻ നികുന്നത് 😡
+>> NB : നിങ്ങൾക്കും ഇതുപോലെ ഒരു Bot വേണമെങ്കിൽ എന്റെ മൊയലാളി യെ ബന്ധപ്പെടുക...😊
 
 
 
