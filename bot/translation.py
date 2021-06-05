@@ -10,7 +10,7 @@ class Translation(object):
 You can't add to your group
 
 For More Details Click Help Button Below..
-@CL_CHATGRP
+@cl_chatgrp
 </i>"""    
     
     HELP_TEXT = """
