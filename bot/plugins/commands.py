@@ -89,12 +89,12 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('group', url='https://t.me/cl_chatgrp'),
-        InlineKeyboardButton('channel  🧾', url ='https://t.me/CLALL1')
+        InlineKeyboardButton('🕵️Creator ', url='https://t.me/Levinomad_TG'),
+        InlineKeyboardButton('⚠️JOIN  ', url ='https://t.me/CLALL1')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/Cl_chatgrp')
     ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
+        InlineKeyboardButton('💡Help ', callback_data="help")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
